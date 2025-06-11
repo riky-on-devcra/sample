@@ -11,7 +11,7 @@ export default function RubiconScript() {
         window.rubiconSetting = {
           locale: "ko",
           environment: "familynet",
-          type: "embedded"
+          type: "embedded",
         };
         `}
       </Script>
