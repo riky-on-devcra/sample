@@ -1,0 +1,1 @@
+export { pretendardStd } from "./PretendardStd";
